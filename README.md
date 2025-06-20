@@ -13,6 +13,7 @@
 - 🎨 **Dynamic Background** – Background image changes automatically based on weather condition.
 - 🖼️ **Modern UI** – Clean and intuitive layout taken from Figma and implemented in XML.
 - ☁️ **Weather API Integration** – Powered by [OpenWeatherMap](https://openweathermap.org/api).
+- Used Lottie animations file for Attractive Animations.
 
 ---
 ## ScreeShots..
