@@ -1,7 +1,7 @@
 <h1 align="center">🌦️ Weather App</h1>
 
 <p align="center">
-  A modern Android weather app that displays current weather conditions of any city, state, or country with a responsive UI built using Kotlin and XML.
+  A modern Android weather app that displays current weather conditions of any city, state, or country with a responsive UI built using XML and Backed workings using Kotlin.
 </p>
 
 ---
@@ -15,7 +15,14 @@
 - ☁️ **Weather API Integration** – Powered by [OpenWeatherMap](https://openweathermap.org/api).
 
 ---
+## ScreeShots..
+I had added some screen shots of the project,one can find them above,they are named as---->
+1.clear screen,
+2.rainy screen,
+3.cloudy screen,
+4.main screen.
 
+Do see the screenshots to take a preview of the app.
 ---
 
 ## 🛠️ Tech Stack
@@ -23,7 +30,7 @@
 | Area               | Technology        |
 |--------------------|-------------------|
 | Language           | Kotlin             |
-| UI Framework       | XML (from Figma)   |
+| UI Framework       | XML (Layout Design taken from Figma)   |
 | API & Networking   | OpenWeathermap API + Retrofit |
 | JSON Parsing       | Gson               |
 
