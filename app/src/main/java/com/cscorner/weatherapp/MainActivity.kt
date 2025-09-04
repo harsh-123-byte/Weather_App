@@ -20,7 +20,7 @@ import java.util.Date
 import java.util.Locale
 
 
-// 91365c96c427454ed8dae5f09fa2db9d
+
 class MainActivity : AppCompatActivity() {
     private lateinit var binding: ActivityMainBinding
     override fun onCreate(savedInstanceState: Bundle?) {
